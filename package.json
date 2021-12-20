@@ -1,0 +1,26 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuongcdt/bai3-web55.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vuongcdt/bai3-web55/issues"
+  },
+  "homepage": "https://github.com/vuongcdt/bai3-web55#readme",
+  "devDependencies": {},
+  "description": ""
+}
